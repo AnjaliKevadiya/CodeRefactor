@@ -1,7 +1,5 @@
 # CodeRefactor
 
----
-
 Description
 
 ---
@@ -10,4 +8,4 @@ Description
 
 ---
 
-#### Website link(https://anjalikevadiya.github.io/CodeRefactor/)
+#### [Website link](https://anjalikevadiya.github.io/CodeRefactor/)
